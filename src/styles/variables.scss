@@ -1,0 +1,47 @@
+// ================================================================
+// 公安AI卷宗审查系统 — 全局设计变量
+// 政务/公安深蓝大屏风格
+// ================================================================
+
+// 背景层级
+$bg-primary: #0A1628;
+$bg-panel: #101D33;
+$bg-card: #162540;
+$bg-card-hover: #1C3050;
+$bg-input: #0F1D30;
+
+// 边框
+$border-color: #1E3A5F;
+$border-light: #2A4A6F;
+
+// 文字
+$text-primary: #E8EDF5;
+$text-secondary: #8FA4BE;
+$text-muted: #5A7290;
+
+// 强调色
+$accent: #00D4FF;
+$accent-glow: rgba(0, 212, 255, 0.15);
+
+// 语义色
+$warning: #FF6B35;
+$danger: #FF4757;
+$danger-glow: rgba(255, 71, 87, 0.15);
+$success: #2ED573;
+$success-glow: rgba(46, 213, 115, 0.15);
+$orange: #FFA502;
+$purple: #7C5CFC;
+
+// 圆角
+$radius: 8px;
+$radius-sm: 4px;
+
+// 阴影
+$shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+
+// 过渡
+$transition: 0.2s ease;
+
+// 侧边栏
+$sidebar-width: 220px;
+$topbar-height: 52px;
